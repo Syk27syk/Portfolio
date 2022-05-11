@@ -24,16 +24,16 @@
           <p> add explanation of your processes and about the project </p>
         </div>
         <div id="audio-programming">
-          audio programming: synthesizers, audiovisualizers, spectrograms, audio analyzers, generative music, signal processing, fluid dynamics
+          <p>audio programming: synthesizers, audiovisualizers, spectrograms, audio analyzers, generative music, signal processing, fluid dynamics</p>
         </div>
         <div id="web-gl">
-          webGL projects
+          <p>webGL projects</p>
         </div>
         <div id="creative-coding-and-generative-art">
-          creative coding
+          <p>creative coding</p>
         </div>
         <div id="media">
-          web audio, web media ...
+          <p>web audio, web media ...</p>
         </div>
         <div id="personal-projects">
           <p>personal and class projects, e.g. standard curriculum projects + personal interests</p>
@@ -45,22 +45,36 @@
         <p>classification by industry and field, methods</p>
       </div>
       <div id="IoT-projects">
-        internet of things/physical computing
+        <p>internet of things/physical computing</p>
       </div>
       <div id="other">
-        Projects with: go, dart, swift, flutter, firebase, AWS, Azure, PHP, Ruby on Rails, C, C++, Python
+        <p> projects with: go, dart, swift, flutter, firebase, AWS, Azure, PHP, Ruby on Rails, C, C++, Python</p>
+        <p> projects with operating systems, electronics, networks ... </p>
+        <p> actual scientific research or other research projects or field projects </p>
       </div>
       <div id="infographics-videos-courses">
-        infographics, videos, courses, teaching
+        <p>infographics, videos, courses, teaching</p>
       </div>
       <div id="qualifications-and-certifications">
-        qualifications and certifications and events attended
+        <p>qualifications and certifications and events attended</p>
+      </div>
+      <div id="proficiency-and-experience">
+        <p>proficiency and experience with different platforms, technologies, languages</p>
+      </div>
+      <div id="other skills">
+        <p> e.g. project management, sales, ... audio production </p>
+      </div>
+      <div id="domain-knowledge">
+        <p> drop some slides or videos or write some articles or something </p>
       </div>
       <div id="soft skills">
-        something to demonstrate soft skills
+        <p>something to demonstrate soft skills</p>
       </div>
       <div id="references">
-        references
+        <p>references</p>
+      </div>
+      <div id="links">
+        <p> links to personal home page, general resume, social media accounts </p>
       </div>
     </div>
   </div>
