@@ -62,7 +62,7 @@
         <p>proficiency and experience with different platforms, technologies, languages</p>
       </div>
       <div id="other skills">
-        <p> e.g. project management, sales, ... audio production </p>
+        <p> e.g. project management, digital marketing, sales, accounting ... audio production </p>
       </div>
       <div id="domain-knowledge">
         <p> drop some slides or videos or write some articles or something </p>
