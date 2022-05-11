@@ -38,6 +38,9 @@
         <div id="personal-projects">
           <p>personal and class projects, e.g. standard curriculum projects + personal interests</p>
           <p> matterJS, toneJS </p>
+          <p> do something about SEO </p>
+          <p> do something about cybersecurity </p>
+          <p> wordpress, SSGs etc.</p>
         </div>
       </div>
       <div id="data-science">
@@ -76,6 +79,7 @@
       <div id="links">
         <p> links to personal home page, general resume, social media accounts </p>
       </div>
+      <!-- clarify objectives. monitor, assess, repeat. Visit frequently. Be seen for who you really are, let your personality come through, meet all core competencies, demonstrate experience and core strengths -->
     </div>
   </div>
 </template>
