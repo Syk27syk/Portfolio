@@ -15,6 +15,9 @@
         <p> Mood Music </p>
         <p> Pollution Monitor </p>
         <p> Draw </p>
+        <p> VIOLATE my privacy </p>
+        <p> TIPSOD </p>
+        <p> ConLang </p>
       </div>
       <div id="featured">
         featured
@@ -28,6 +31,12 @@
           <p> animated, webGL </p>
           <p> showcase variety and understanding of common requirements and your ability to hit them</p>
           <p> add explanation of your processes and about the project </p>
+        </div>
+        <div id="vue-projects">
+          <p> Vue projects </p>
+        </div>
+        <div id="firebase-projects">
+          <p> Firebase projects </p>
         </div>
         <div id="audio-programming">
           <p>audio programming: synthesizers, audiovisualizers, spectrograms, audio analyzers, generative music, signal processing, fluid dynamics</p>
