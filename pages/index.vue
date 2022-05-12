@@ -13,6 +13,7 @@
       <div id="current-and-recent">
         <h5> Current and Recent </h5>
         <p> Mood Music </p>
+        <p> ToneJS starter </p>
         <p> Pollution Monitor </p>
         <p> Draw </p>
         <p> VIOLATE my privacy </p>
