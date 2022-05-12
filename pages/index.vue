@@ -4,19 +4,25 @@
       <h1 class="text-5xl">Portfolio</h1>
       <p class="mt-5">testing</p>
       <div id="search">
+        <h5> Search </h5>
         <p>search by: technology/skill</p>
         <p>search by: project criteria and type</p>
         <p>search by: industry/domain</p>
         <p>sort by: date</p>
       </div>
-      <div id="recent">
-        recent
+      <div id="current-and-recent">
+        <h5> Current and Recent </h5>
+        <p> Mood Music </p>
+        <p> Pollution Monitor </p>
+        <p> Draw </p>
       </div>
       <div id="featured">
         featured
       </div>
       <div id="web development">
+        <h3> Web Development </h3>
         <div id="front-end">
+          <h5> Front Ends and Web Design </h5>
           <p> front ends and web design </p>
           <p> styles e.g. minimalist, neumorphic </p>
           <p> animated, webGL </p>
