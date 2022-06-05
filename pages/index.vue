@@ -1,8 +1,7 @@
 <template>
   <div class="flex h-screen bg-slate-100 align-middle text-slate-900 text-center">
     <div class="m-auto">
-      <h1 class="text-5xl">Portfolio</h1>
-      <p class="mt-5">testing</p>
+      <h1 class="text-5xl m-10">Portfolio</h1>
       <div id="search">
         <h5> Search </h5>
         <p>search by: technology/skill</p>
@@ -10,18 +9,49 @@
         <p>search by: industry/domain</p>
         <p>sort by: date</p>
       </div>
-      <div id="current-and-recent">
-        <h5 class="text-xl font-bold"> Current and Recent </h5>
-        <p><a href="https://mood-music-syk.netlify.app">Mood Music</a></p>
-        <p><a href=""> ToneJS starter</a></p>
-        <p><a href=""> Pollution Monitor </a></p>
-        <p><a href=""> Draw </a></p>
-        <p><a href=""> VIOLATE my privacy </a></p>
-        <p><a href=""> TIPSOD </a></p>
-        <p><a href=""> ConLang </a></p>
+      <div id="current-and-recent" class="my-10">
+        <h5 class="text-xl font-bold m-2 uppercase"> Current and Recent </h5>
+        <div class="grid grid-cols-3">
+          <div id="mood music">
+            <a href="https://mood-music-syk.netlify.app">
+            <p class="font-bold">Mood Music</p>
+            <img />
+            </a>
+          </div>
+          <div id="testos-burgers">
+            <a href="https://ztm-student-syk.netlify.app">
+            <p class="font-bold">Testos Burgers (class project)</p>
+            <img />
+            </a>
+          </div>
+          <div>
+            <a href="">
+              <p class="font-bold">ToneJS starter project</p>
+              <img />
+            </a>
+          </div>
+          <div>
+            <a href=""> Pollution Monitor </a>
+          </div>
+          <div>
+            <a href="https://draw-syk.netlify.app"> Draw </a>
+          </div>
+          <div>
+            <a href="https://world-clock-syk.netlify.app"> World Clock </a>
+          </div>
+          <div>
+            <a href=""> TIPSOD </a>
+          </div>
+          <div>
+            <a href=""> ConLang </a>
+          </div>
+          <div>
+            <a href=""> VIOLATE my privacy </a>
+          </div>
+        </div>
       </div>
       <div id="featured">
-        <h5 class="text-xl font-bold">Featured</h5>
+        <h5 class="text-xl font-bold m-2 uppercase">Featured</h5>
       </div>
       <div id="web development">
         <h3 class="text-lg font-bold"> Web Development </h3>
@@ -89,10 +119,11 @@
       <div id="soft skills">
         <p class="text-lg font-bold">something to demonstrate soft skills</p>
       </div>
-      <div id="references">
-        <p class="text-lg font-bold">references</p>
+      <div id="references" class="m-10">
+        <p class="text-xl font-bold m-2 uppercase">references</p>
       </div>
-      <div id="links">
+      <div id="links" class="m-10">
+        <p class="text-xl font-bold m-2 uppercase">link</p>
         <p> links to personal home page, general resume, social media accounts </p>
       </div>
       <!-- clarify objectives. monitor, assess, repeat. Visit frequently. Be seen for who you really are, let your personality come through, meet all core competencies, demonstrate experience and core strengths -->
