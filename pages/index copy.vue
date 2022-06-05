@@ -1,5 +1,5 @@
 <template>
-  <div class="flex h-screen bg-slate-100 align-middle text-slate-900 text-center">
+  <div class="flex h-screen bg-slate-600 align-middle text-white text-center">
     <div class="m-auto">
       <h1 class="text-5xl">Portfolio</h1>
       <p class="mt-5">testing</p>
@@ -11,22 +11,22 @@
         <p>sort by: date</p>
       </div>
       <div id="current-and-recent">
-        <h5 class="text-xl font-bold"> Current and Recent </h5>
-        <p><a href="https://mood-music-syk.netlify.app">Mood Music</a></p>
-        <p><a href=""> ToneJS starter</a></p>
-        <p><a href=""> Pollution Monitor </a></p>
-        <p><a href=""> Draw </a></p>
-        <p><a href=""> VIOLATE my privacy </a></p>
-        <p><a href=""> TIPSOD </a></p>
-        <p><a href=""> ConLang </a></p>
+        <h5> Current and Recent </h5>
+        <p> Mood Music </p>
+        <p> ToneJS starter </p>
+        <p> Pollution Monitor </p>
+        <p> Draw </p>
+        <p> VIOLATE my privacy </p>
+        <p> TIPSOD </p>
+        <p> ConLang </p>
       </div>
       <div id="featured">
-        <h5 class="text-xl font-bold">Featured</h5>
+        featured
       </div>
       <div id="web development">
-        <h3 class="text-lg font-bold"> Web Development </h3>
+        <h3> Web Development </h3>
         <div id="front-end">
-          <h5 class="font-bold">Front Ends and Web Design </h5>
+          <h5> Front Ends and Web Design </h5>
           <p> front ends and web design </p>
           <p> styles e.g. minimalist, neumorphic </p>
           <p> animated, webGL </p>
@@ -34,22 +34,22 @@
           <p> add explanation of your processes and about the project </p>
         </div>
         <div id="vue-projects">
-          <p class="font-bold"> Vue projects </p>
+          <p> Vue projects </p>
         </div>
         <div id="firebase-projects">
-          <p class="font-bold"> Firebase projects </p>
+          <p> Firebase projects </p>
         </div>
         <div id="audio-programming">
           <p>audio programming: synthesizers, audiovisualizers, spectrograms, audio analyzers, generative music, signal processing, fluid dynamics</p>
         </div>
         <div id="web-gl">
-          <p class="font-bold">webGL projects</p>
+          <p>webGL projects</p>
         </div>
         <div id="creative-coding-and-generative-art">
-          <p class="font-bold">creative coding</p>
+          <p>creative coding</p>
         </div>
         <div id="media">
-          <p class="font-bold">web audio, web media ...</p>
+          <p>web audio, web media ...</p>
         </div>
         <div id="personal-projects">
           <p>personal and class projects, e.g. standard curriculum projects + personal interests</p>
@@ -60,11 +60,11 @@
         </div>
       </div>
       <div id="data-science">
-        <p class="text-lg font-bold">data science projects: visualizations, scraping, machine learning</p>
+        <p>data science projects: visualizations, scraping, machine learning</p>
         <p>classification by industry and field, methods</p>
       </div>
       <div id="IoT-projects">
-        <p class="text-lg font-bold">internet of things/physical computing</p>
+        <p>internet of things/physical computing</p>
       </div>
       <div id="other">
         <p> projects with: go, dart, swift, flutter, firebase, AWS, Azure, PHP, Ruby on Rails, C, C++, Python</p>
@@ -72,25 +72,25 @@
         <p> actual scientific research or other research projects or field projects </p>
       </div>
       <div id="infographics-videos-courses">
-        <p class="text-lg font-bold">infographics, videos, courses, teaching</p>
+        <p>infographics, videos, courses, teaching</p>
       </div>
       <div id="qualifications-and-certifications">
-        <p class="text-lg font-bold">qualifications and certifications and events attended</p>
+        <p>qualifications and certifications and events attended</p>
       </div>
       <div id="proficiency-and-experience">
-        <p class="text-lg font-bold">proficiency and experience with different platforms, technologies, languages</p>
+        <p>proficiency and experience with different platforms, technologies, languages</p>
       </div>
       <div id="other skills">
-        <p class="text-lg font-bold"> e.g. project management, digital marketing, sales, accounting ... audio production </p>
+        <p> e.g. project management, digital marketing, sales, accounting ... audio production </p>
       </div>
       <div id="domain-knowledge">
-        <p class="text-lg font-bold"> drop some slides or videos or write some articles or something </p>
+        <p> drop some slides or videos or write some articles or something </p>
       </div>
       <div id="soft skills">
-        <p class="text-lg font-bold">something to demonstrate soft skills</p>
+        <p>something to demonstrate soft skills</p>
       </div>
       <div id="references">
-        <p class="text-lg font-bold">references</p>
+        <p>references</p>
       </div>
       <div id="links">
         <p> links to personal home page, general resume, social media accounts </p>
