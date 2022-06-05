@@ -1,7 +1,28 @@
 <template>
-  <div class="flex h-screen bg-slate-100 align-middle text-slate-900 text-center">
-    <div class="m-auto">
-      <h1 class="text-5xl m-10">Portfolio</h1>
+  <div class="bg-white align-middle text-slate-900 font-['open_sans'] text-center">
+    <div id="nav bar" class="grid grid-cols-2 py-8 bg-slate-500">
+      <span id="logo" class="text-2xl font-bold"> Shi Yun Khoo </span>
+      <ul id="navigation-items" class="flex flex-row gap-x-5 px-5 text-xl">
+        <li> About Me </li>
+        <li> Projects </li>
+        <li> Skills </li>
+        <li> Contact </li>
+      </ul>
+    </div>
+    <div id="about me" class="grid grid-cols-2 my-10">
+      <div id="text" class="mx-auto m-5">
+        <h5 class="text-left p-5 text-3xl font-bold"> About Me </h5>
+        <div class="text-left px-5 text-lg">
+          <p> Hello!!!!! It's me. </p>
+          <p> Fun fact! I've been programming for xxxx seconds. </p>
+        </div>
+      </div>
+      <div id="pic">
+        <img src="" alt="" class="m-5 rounded-md h-96 w-96" />
+      </div>
+    </div>
+    <div id="main" class="m-auto">
+      <h5 class="text-3xl font-bold"> Projects </h5>
       <div id="search">
         <h5> Search </h5>
         <p>search by: technology/skill</p>
@@ -14,39 +35,55 @@
         <div class="grid grid-cols-3">
           <div id="mood music">
             <a href="https://mood-music-syk.netlify.app">
-            <p class="font-bold">Mood Music</p>
+            <p class="font-bold"> Mood Music </p>
             <img />
             </a>
           </div>
           <div id="testos-burgers">
             <a href="https://ztm-student-syk.netlify.app">
-            <p class="font-bold">Testos Burgers (class project)</p>
+            <p class="font-bold"> Testos Burgers (class project) </p>
             <img />
             </a>
           </div>
           <div>
             <a href="">
-              <p class="font-bold">ToneJS starter project</p>
+              <p class="font-bold"> ToneJS starter project </p>
               <img />
             </a>
           </div>
           <div>
             <a href=""> Pollution Monitor </a>
+            <img />
           </div>
           <div>
-            <a href="https://draw-syk.netlify.app"> Draw </a>
+            <a href="https://draw-syk.netlify.app">
+              <p class="font-bold">Draw</p>
+              <img />
+            </a>
           </div>
           <div>
-            <a href="https://world-clock-syk.netlify.app"> World Clock </a>
+            <a href="https://world-clock-syk.netlify.app">
+              <p class="font-bold">World Clock</p>
+              <img />
+            </a>
           </div>
           <div>
-            <a href=""> TIPSOD </a>
+            <a href="">
+              <p class="font-bold">TIPSOD</p>
+              <img />
+            </a>
           </div>
           <div>
-            <a href=""> ConLang </a>
+            <a href="">
+              <p class="font-bold">ConLang</p>
+              <img />
+            </a>
           </div>
           <div>
-            <a href=""> VIOLATE my privacy </a>
+            <a href="">
+              <p class="font-bold">VIOLATE my privacy </p>
+              <img />
+            </a>
           </div>
         </div>
       </div>
@@ -128,5 +165,8 @@
       </div>
       <!-- clarify objectives. monitor, assess, repeat. Visit frequently. Be seen for who you really are, let your personality come through, meet all core competencies, demonstrate experience and core strengths -->
     </div>
+    <footer>
+      footer
+    </footer>
   </div>
 </template>
