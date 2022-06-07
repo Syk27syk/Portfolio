@@ -139,76 +139,81 @@
         </div>
       </div>
       <hr>
-      <div id="featured">
-        <h5 class="text-xl font-bold mt-10 p-5 uppercase">Featured</h5>
-      </div>
-      <div id="web development">
-        <h3 class="text-lg font-bold"> Web Development </h3>
-        <div id="front-end">
-          <h5 class="font-bold">Front Ends and Web Design </h5>
-          <p> front ends and web design </p>
-          <p> styles e.g. minimalist, neumorphic </p>
-          <p> animated, webGL </p>
-          <p> showcase variety and understanding of common requirements and your ability to hit them</p>
-          <p> add explanation of your processes and about the project </p>
+      <div id="featured" class="m-10 text-left">
+        <h5 class="my-10 text-center text-xl font-bold uppercase">Featured</h5>
+        <div id="web development" class="my-5">
+          <h3 class="text-lg font-bold uppercase"> Web Development </h3>
+          <div id="front-end">
+            <h5 class="font-bold">Front Ends and Web Design </h5>
+            <p> front ends and web design </p>
+            <p> styles e.g. minimalist, neumorphic </p>
+            <p> animated, webGL </p>
+            <p> showcase variety and understanding of common requirements and your ability to hit them</p>
+            <p> add explanation of your processes and about the project </p>
+          </div>
+          <div id="vue-projects">
+            <p class="font-bold"> Vue projects </p>
+          </div>
+          <div id="firebase-projects">
+            <p class="font-bold"> Firebase projects </p>
+          </div>
+          <div id="audio-programming">
+            <p>audio programming: synthesizers, audiovisualizers, spectrograms, audio analyzers, generative music, signal processing, fluid dynamics</p>
+          </div>
+          <div id="web-gl">
+            <p class="font-bold">webGL projects</p>
+          </div>
+
+          <div id="media" class="my-5">
+            <p class="font-bold">web audio, web media ...</p>
+          </div>
+          <div id="personal-projects" class="my-5">
+            <p>personal and class projects, e.g. standard curriculum projects + personal interests</p>
+            <p> matterJS, toneJS </p>
+            <p> do something about SEO </p>
+            <p> do something about cybersecurity </p>
+            <p> wordpress, SSGs etc.</p>
+          </div>
         </div>
-        <div id="vue-projects">
-          <p class="font-bold"> Vue projects </p>
+        <div id="creative-coding-and-generative-art" class="my-5">
+          <p class="text-lg font-bold uppercase">creative coding</p>
         </div>
-        <div id="firebase-projects">
-          <p class="font-bold"> Firebase projects </p>
+        <div id="data-science" class="my-5">
+          <p class="text-lg font-bold uppercase">data science projects</p>
+          <p>visualizations, scraping, machine learning</p>
+          <p>classification by industry and field, methods</p>
         </div>
-        <div id="audio-programming">
-          <p>audio programming: synthesizers, audiovisualizers, spectrograms, audio analyzers, generative music, signal processing, fluid dynamics</p>
+        <div id="IoT-projects" class="my-5">
+          <p class="text-lg font-bold uppercase">internet of things/physical computing</p>
         </div>
-        <div id="web-gl">
-          <p class="font-bold">webGL projects</p>
-        </div>
-        <div id="creative-coding-and-generative-art">
-          <p class="text-lg font-bold">creative coding</p>
-        </div>
-        <div id="media">
-          <p class="font-bold">web audio, web media ...</p>
-        </div>
-        <div id="personal-projects">
-          <p>personal and class projects, e.g. standard curriculum projects + personal interests</p>
-          <p> matterJS, toneJS </p>
-          <p> do something about SEO </p>
-          <p> do something about cybersecurity </p>
-          <p> wordpress, SSGs etc.</p>
+        <div id="other" class="my-5">
+          <p class="text-lg font-bold uppercase">other</p>
+          <p> projects with: go, dart, swift, flutter, firebase, AWS, Azure, PHP, Ruby on Rails, C, C++, Python</p>
+          <p> projects with operating systems, electronics, networks ... </p>
+          <p> actual scientific research or other research projects or field projects </p>
         </div>
       </div>
-      <div id="data-science">
-        <p class="text-lg font-bold">data science projects: visualizations, scraping, machine learning</p>
-        <p>classification by industry and field, methods</p>
+      <div class="m-10 text-left">
+        <div id="infographics-videos-courses">
+          <p class="text-lg font-bold">infographics, videos, courses, teaching</p>
+        </div>
+        <div id="qualifications-and-certifications">
+          <p class="text-lg font-bold">qualifications and certifications and events attended</p>
+        </div>
+        <div id="proficiency-and-experience">
+          <p class="text-lg font-bold">proficiency and experience with different platforms, technologies, languages</p>
+        </div>
+        <div id="other skills">
+          <p class="text-lg font-bold"> e.g. project management, digital marketing, sales, accounting ... audio production </p>
+        </div>
+        <div id="domain-knowledge">
+          <p class="text-lg font-bold"> drop some slides or videos or write some articles or something </p>
+        </div>
+        <div id="soft skills">
+          <p class="text-lg font-bold">something to demonstrate soft skills</p>
+        </div>
+        <!-- clarify objectives. monitor, assess, repeat. Visit frequently. Be seen for who you really are, let your personality come through, meet all core competencies, demonstrate experience and core strengths -->
       </div>
-      <div id="IoT-projects">
-        <p class="text-lg font-bold">internet of things/physical computing</p>
-      </div>
-      <div id="other">
-        <p> projects with: go, dart, swift, flutter, firebase, AWS, Azure, PHP, Ruby on Rails, C, C++, Python</p>
-        <p> projects with operating systems, electronics, networks ... </p>
-        <p> actual scientific research or other research projects or field projects </p>
-      </div>
-      <div id="infographics-videos-courses">
-        <p class="text-lg font-bold">infographics, videos, courses, teaching</p>
-      </div>
-      <div id="qualifications-and-certifications">
-        <p class="text-lg font-bold">qualifications and certifications and events attended</p>
-      </div>
-      <div id="proficiency-and-experience">
-        <p class="text-lg font-bold">proficiency and experience with different platforms, technologies, languages</p>
-      </div>
-      <div id="other skills">
-        <p class="text-lg font-bold"> e.g. project management, digital marketing, sales, accounting ... audio production </p>
-      </div>
-      <div id="domain-knowledge">
-        <p class="text-lg font-bold"> drop some slides or videos or write some articles or something </p>
-      </div>
-      <div id="soft skills">
-        <p class="text-lg font-bold">something to demonstrate soft skills</p>
-      </div>
-      <!-- clarify objectives. monitor, assess, repeat. Visit frequently. Be seen for who you really are, let your personality come through, meet all core competencies, demonstrate experience and core strengths -->
     </div>
     <div id="skills">
       <h5 class="text-3xl font-bold"> Skills </h5>
