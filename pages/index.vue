@@ -265,6 +265,10 @@
       </ul>
     </div>
     <hr>
+    <div id="contacts" class="m-10">
+      <p class="text-xl font-bold m-2 uppercase">Contact</p>
+    </div>
+    <hr>
     <footer class="mx-auto my-10 text-md">
       <p class="py-1">Last updated: Sunday, 5th June 2022</p>
       <p class="py-1">Made with ❤️ in Malaysia</p>
