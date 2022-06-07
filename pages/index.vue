@@ -81,7 +81,7 @@
         </div>
       </div>
       <hr>
-      <div id="current-and-recent" class="my-10">
+      <div id="current-and-recent" class="my-10 pb-10">
         <h5 class="text-xl font-bold m-2 p-5 uppercase">Current and Recent</h5>
         <div class="grid grid-cols-3 gap-8">
           <div id="mood music" class="mx-auto">
@@ -141,7 +141,7 @@
         </div>
       </div>
       <hr>
-      <div id="featured" class="m-10 text-left">
+      <div id="featured" class="my-20 mx-10 text-left">
         <h5 class="my-10 text-center text-xl font-bold uppercase">Featured</h5>
         <div id="web development" class="my-5">
           <h3 class="text-lg font-bold uppercase"> Web Development </h3>
@@ -231,17 +231,72 @@
           <td>Experience</td>
         </thead>
         <tr>
-          <td>JavaScript</td>
+          <td>HTML5</td>
           <td>a</td>
           <td>b</td>
         </tr>
         <tr>
-          <td>JavaScript</td>
+          <td>CSS3</td>
           <td>a</td>
           <td>b</td>
         </tr>
         <tr>
-          <td>JavaScript</td>
+          <td>Tailwind CSS</td>
+          <td>a</td>
+          <td>b</td>
+        </tr>
+        <tr>
+          <td>Bootstrap</td>
+          <td>a</td>
+          <td>b</td>
+        </tr>
+        <tr>
+          <td>Sass</td>
+          <td>a</td>
+          <td>b</td>
+        </tr>
+        <tr>
+          <td>Less</td>
+          <td>a</td>
+          <td>b</td>
+        </tr>
+        <tr>
+          <td>JavaScript ...</td>
+          <td>a</td>
+          <td>b</td>
+        </tr>
+        <tr>
+          <td>VueJS</td>
+          <td>a</td>
+          <td>b</td>
+        </tr>
+        <tr>
+          <td>React</td>
+          <td>a</td>
+          <td>b</td>
+        </tr>
+        <tr>
+          <td>Angular</td>
+          <td>a</td>
+          <td>b</td>
+        </tr>
+        <tr>
+          <td>PHP</td>
+          <td>a</td>
+          <td>b</td>
+        </tr>
+        <tr>
+          <td>Python</td>
+          <td>a</td>
+          <td>b</td>
+        </tr>
+        <tr>
+        <td>SQL</td>
+          <td>a</td>
+          <td>b</td>
+        </tr>
+        <tr>
+        <td>R</td>
           <td>a</td>
           <td>b</td>
         </tr>
