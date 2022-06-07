@@ -75,7 +75,7 @@
         </div>
         <div class="mb-10 py-2">
           <p>search by: technology/skill</p>
-          <p>search by: project criteria and type</p>,
+          <p>search by: project criteria and type</p>
           <p>search by: industry/domain</p>
           <p>sort by: date</p>
         </div>
@@ -160,7 +160,8 @@
             <p class="font-bold"> Firebase projects </p>
           </div>
           <div id="audio-programming">
-            <p>audio programming: synthesizers, audiovisualizers, spectrograms, audio analyzers, generative music, signal processing, fluid dynamics</p>
+            <p class="font-bold">audio programming</p>
+            <p> synthesizers, audiovisualizers, spectrograms, audio analyzers, generative music, signal processing, fluid dynamics</p>
           </div>
           <div id="web-gl">
             <p class="font-bold">webGL projects</p>
@@ -256,7 +257,7 @@
       <p class="font-bold">Personal home page</p>
       <p class="font-bold">General resume</p>
       <p class="font-bold">Social media accounts</p>
-      <ul>
+      <ul class="grid grid-cols-4 w-3/4 mx-auto">
         <li>Facebook</li>
         <li>Instagram</li>
         <li>Pinterest</li>
