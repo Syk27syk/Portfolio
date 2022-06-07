@@ -73,10 +73,12 @@
             </form>
           </div>
         </div>
-        <p>search by: technology/skill</p>
-        <p>search by: project criteria and type</p>
-        <p>search by: industry/domain</p>
-        <p>sort by: date</p>
+        <div class="mb-10 py-2">
+          <p>search by: technology/skill</p>
+          <p>search by: project criteria and type</p>,
+          <p>search by: industry/domain</p>
+          <p>sort by: date</p>
+        </div>
       </div>
       <hr>
       <div id="current-and-recent" class="my-10">
@@ -183,6 +185,9 @@
           <p>visualizations, scraping, machine learning</p>
           <p>classification by industry and field, methods</p>
         </div>
+         <div id="data-science" class="my-5">
+          <p class="text-lg font-bold uppercase">python projects</p>
+        </div>
         <div id="IoT-projects" class="my-5">
           <p class="text-lg font-bold uppercase">internet of things/physical computing</p>
         </div>
@@ -215,10 +220,11 @@
         <!-- clarify objectives. monitor, assess, repeat. Visit frequently. Be seen for who you really are, let your personality come through, meet all core competencies, demonstrate experience and core strengths -->
       </div>
     </div>
-    <div id="skills">
-      <h5 class="text-3xl font-bold"> Skills </h5>
-      <table>
-        <thead class="font-bold">
+    <hr>
+    <div id="skills" class="mb-10">
+      <h5 class="my-10 text-3xl font-bold"> Skills </h5>
+      <table class="mx-auto w-2/3 border-2 border-black">
+        <thead class="font-bold border-2 border-black">
           <td>Skill</td>
           <td>Level</td>
           <td>Experience</td>
@@ -233,16 +239,18 @@
           <td>a</td>
           <td>b</td>
         </tr>
-          <tr>
+        <tr>
           <td>JavaScript</td>
           <td>a</td>
           <td>b</td>
         </tr>
       </table>
     </div>
+    <hr>
     <div id="references" class="m-10">
       <p class="text-xl font-bold m-2 uppercase">references</p>
     </div>
+    <hr>
     <div id="links" class="m-10">
       <p class="text-xl font-bold m-2 uppercase">links</p>
       <p class="font-bold">Personal home page</p>
